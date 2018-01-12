@@ -78,6 +78,10 @@
                         <label>Pin-code: </label>
                         <input type="text" name="pincode" id="pincode" tabindex="1" class="form-control" placeholder="Pincode" value="">
                     </div>
+					<div class="form-group">
+						<label> Photo: </label>
+						<input type="file" name="userfile" size="20" />
+					</div>
                     <div class="form-group">
                         <div class="row">
                             <div class="col-sm-6 col-sm-offset-3">
